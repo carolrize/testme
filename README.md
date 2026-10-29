@@ -55,4 +55,5 @@ for i in range(5) :
 
 <https://www.youtube.com/>\
 [파이썬 공식문서](https://www.youtube.com/)\
-[파이썬 공식문서](https://www.youtube.com/, "하윙")
+[파이썬 공식문서](https://www.youtube.com/, "하윙")\
+![떼껄룩](take_a_look.png)
