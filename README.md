@@ -55,4 +55,4 @@ for i in range(5) :
 
 <https://www.youtube.com/>\
 [파이썬 공식문서](https://www.youtube.com/)\
-[파이썬 공식문서](https://www.youtube.com/)
+[파이썬 공식문서](https://www.youtube.com/, 하윙)
